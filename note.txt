@@ -1,0 +1,7 @@
+github a ekleme islemi
+git add .
+ git commit -m "ilk test islemi"
+git remote add origin  https://github.com/Akatron11/test.git
+git push -u origin main
+
+

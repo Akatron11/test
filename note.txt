@@ -17,3 +17,16 @@ push: Paketi adrese postalar.
 
 github daki bir repoda yapilan degisikligi kendi lokalimde gormek istersem pull almam gerek
 git pull
+
+
+diger bazi git komutlari
+pwd 
+cd
+mkdir
+touch
+ls
+ls -a
+status
+rm
+rm -rf
+
